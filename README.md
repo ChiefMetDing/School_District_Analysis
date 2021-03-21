@@ -12,6 +12,7 @@ This School District Analysis provides:
 - School performance based on the budget per student, the school size and the type of school.
 
 Please keep note: reading and math grades for Thomas High School ninth graders are not considered in this analysis due to evidence of academic dishonesty. Passing score for math and reading is 70.
+
 The result of the analysis shows that:
 
 - The top three best performing schools in terms of overall passing rate are: Cabrera High school, Thomas High school and Griffin High school.
@@ -27,24 +28,49 @@ All ninth grades’ math and reading scores are replaced by "`NaN`" to facilitat
 In this analysis, total number of students count includes the number of ninth graders in Thomas High school. However, when calculating Thomas High school average math and reading average scores and passing rates, these students are not included in the calculations.
 
 ### District Summary and School Summary
-As shown in the table below, data of 39,170 students from 15 schools in the district is analyzed. The total budget for the entire district is around $24.65 million. The average math score is 78.9 with 74.8% passing rate, and reading score is averaged at 81.9 with 85.7% passing rate. The overall passing rate is 64.9%.
+As shown in the table below (__Table 1__), data of 39,170 students from 15 schools in the district is analyzed. The total budget for the entire district is around $24.65 million. The average math score is 78.9 with 74.8% passing rate, and reading score is averaged at 81.9 with 85.7% passing rate. The overall passing rate is 64.9%.
 
-Top 5 and bottom 5 performing schools are listed below. Cabrera High school is the best performing school among all 15 schools in terms of students overall passing on both math and reading. At Cabrera High school, students’ average math score is 83.1 with 94.1% passing rate, and average reading score is at 84.0 with 97.0% passing rate. The overall passing rate is at as high as 91.3%.
+__Table 1 District Summary__
+![District Summary](https://user-images.githubusercontent.com/78275082/111915487-f0617b00-8a4c-11eb-9e74-8320b8036a00.png)
+
+Top 5 and bottom 5 performing schools are listed below (__Table 2__ and __Table 3__). Cabrera High school is the best performing school among all 15 schools in terms of students overall passing on both math and reading. At Cabrera High school, students’ average math score is 83.1 with 94.1% passing rate, and average reading score is at 84.0 with 97.0% passing rate. The overall passing rate is at as high as 91.3%.
+
+__Table 2 Top 5 Performing Schools__
+![Top 5 Overall Passing school summary](https://user-images.githubusercontent.com/78275082/111915602-7e3d6600-8a4d-11eb-8985-07efe2bc3ccf.png)
+
+__Table 3 Bottom 5 Performing Schools__
+![Bottom 5 Overall Passing school summary](https://user-images.githubusercontent.com/78275082/111915603-81d0ed00-8a4d-11eb-85bb-66edef51d336.png)
 
 Without counting students’ scores in ninth grade at Thomas High school, the overall performance of Thomas High school still ranks the second place in the district. The overall passing rate is at 90.6%. More specifically, the average math score is 83.4 and reading score is 83.9.
 
 The worst performing school in the district is Rodriguez High School, at which students only have a 53.0% overall passing rate. The average math score from Rodriguez school is 76.8% with only 66.4% passing rate. The average reading score is 80.7 with 80.2% passing rate.
 
 ### Students’ Scores in Each Grade Level at Each School
-The table below summarized students’ average math and reading scores at each school. No clear trend is observed on neither math nor reading as a function of grades. More data interpretation could be done, but is not covered in this analysis.
+The table below (__Table 4__) summarized students’ average math and reading scores at each school. No clear trend is observed on neither math nor reading as a function of grades. More data interpretation could be done, but is not covered in this analysis.
+
+__Table 4 Math and Reading Scores by Grade__
+![Math and Reading Scores by Grade](https://user-images.githubusercontent.com/78275082/111915651-b644a900-8a4d-11eb-884b-902e54d3ba38.png)
 
 ### School Performance Review
 #### Budget per Student
-As shown in the table, with the increase of spending per student, the overall passing decreases with the decreasing of average scores and passing rates on math and reading. For schools having $645-775 budget per student, the overall passing rate is as low as 53.5%.
+As shown in the table (__Table 5__), with the increase of spending per student, the overall passing decreases with the decreasing of average scores and passing rates on math and reading. For schools having $645-775 budget per student, the overall passing rate is as low as 53.5%.
+
+__Table 5 Scores by School Spending__
+![Scores by School Spending](https://user-images.githubusercontent.com/78275082/111915725-176c7c80-8a4e-11eb-8ffc-35eebd2d657c.png)
+
 #### School Size 
-The table below shows that, overall, smaller size schools perform better than larger size schools. More specifically, schools with less than 2000 students, the overall passing rate is passing 90%, while students in schools larger than 3000, only have 53.7% passing rate.
+The table below (__Table 6__) shows that, overall, smaller size schools perform better than larger size schools. More specifically, schools with less than 2000 students, the overall passing rate is passing 90%, while students in schools larger than 3000, only have 53.7% passing rate.
+
+__Table 6 Scores by School Size__
+![Scores by School Size](https://user-images.githubusercontent.com/78275082/111915748-31a65a80-8a4e-11eb-9db2-bff50170cad5.png)
+
+
 #### School Type
-Clearly shown in the table, charter schools performs better than district schools. The average overall passing rate at charter schools is higher than 90%, but the average overall passing rate at district schools is at 53.7%
+Clearly shown in the table (__Table 7__), charter schools performs better than district schools. The average overall passing rate at charter schools is higher than 90%, but the average overall passing rate at district schools is at 53.7%
+
+__Table 7 Scores by School Type__
+![Scores by School Type](https://user-images.githubusercontent.com/78275082/111915763-484cb180-8a4e-11eb-910b-1ff40469d7c6.png)
+
 ## Summary
 The analysis shows that the top three best performing schools in terms of overall passing rate are: Cabrera High school, Thomas High school and Griffin High school. The worst performing school is Rodriguez High school. 
 
